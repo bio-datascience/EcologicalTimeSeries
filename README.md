@@ -1,5 +1,5 @@
 
-# MScThesis
+# MScThesis - Ecological Time Series Analysis
 
 <!-- badges: start -->
 <!-- badges: end -->
